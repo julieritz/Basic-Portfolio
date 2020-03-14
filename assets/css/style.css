@@ -49,3 +49,7 @@ p {
     background-color: #4aaaa5;
     padding: 12px;
 }
+
+.img-responsive {
+    padding-bottom: 25px;
+}
