@@ -15,9 +15,9 @@
 .container-md {
     min-height: 400px;
     padding: 40px;
-    margin: auto;
     margin-top: 25px;
     background-color: #ffffff;
+    border-bottom: transparent;
 }
 
 h1 {
